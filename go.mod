@@ -1,4 +1,4 @@
-module github.com/valdemirsimon/argon2id
+module github.com/valdemirsimon/argon
 
 go 1.18
 
